@@ -1,0 +1,5 @@
+# Ignore virtual environment files and directories
+Lib/
+Scripts/
+include/
+pyvenv.cfg
