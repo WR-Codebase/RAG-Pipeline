@@ -1,6 +1,7 @@
-# Ignore virtual environment files and directories
+# Ignore virtual environment files and source document directories
 Lib/
 Scripts/
 include/
 pyvenv.cfg
-documents/index.md
+documents/
+share/
